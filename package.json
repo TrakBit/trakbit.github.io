@@ -2,6 +2,7 @@
   "name": "trakbit.github.io",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://trakbit.github.io",
   "dependencies": {
     "font-awesome": "^4.7.0",
     "react": "^16.0.0",
